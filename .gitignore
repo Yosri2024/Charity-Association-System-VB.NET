@@ -1,0 +1,29 @@
+# Build
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+
+# User
+*.rsuser
+*.vsp
+*.vspx
+*.sap
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
